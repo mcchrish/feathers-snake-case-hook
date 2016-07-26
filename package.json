@@ -1,7 +1,7 @@
 {
   "name": "feathers-snake-case-hook",
   "description": "A service hook to convert params.query into snake_case",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/mcchrish/feathers-snake-case-hook",
   "keywords": [
     "feathers",
